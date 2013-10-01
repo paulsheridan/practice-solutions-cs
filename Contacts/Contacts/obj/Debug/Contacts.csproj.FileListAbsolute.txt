@@ -7,3 +7,8 @@ C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Con
 C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Contacts.csproj.GenerateResource.Cache
 C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Contacts.exe
 C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Contacts.pdb
+C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\bin\Debug\ContactDB.sdf
+C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\bin\Debug\Contacts.exe.manifest
+C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\bin\Debug\Contacts.application
+C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Contacts.exe.manifest
+C:\Users\Paul\Documents\GitHub\PracticeSolutions\Contacts\Contacts\obj\Debug\Contacts.application
